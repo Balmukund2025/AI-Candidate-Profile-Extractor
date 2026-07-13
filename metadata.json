@@ -1,0 +1,6 @@
+{
+  "name": "Candidate Profile Extractor",
+  "description": "An elegant web application for recruiters to upload PDF, Word (DOCX), or Text resumes and instantly extract high-fidelity candidate profiles, skills, work history, and contact details using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
